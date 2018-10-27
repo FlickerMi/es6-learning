@@ -1,4 +1,5 @@
-import './class/lession3.js'
+import 'babel-polyfill'
+import './class/lession4.js'
 
 /*
 class Test{
